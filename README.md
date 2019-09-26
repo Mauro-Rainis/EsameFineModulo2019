@@ -25,4 +25,11 @@ Con riferimento allo schema del database, scrivere in linguaggio sql le interrog
 2. Elencare il nome delle assicurazioni con sede a Trieste
 3. Elencare le auto di proprietà di Gaspare Ferri codice fiscale CZVZPV66M26B719D
 4. Elencare i proprietari di auto con residenza Italiana
-5. Elencare nome,cognome del proprietatio, targa, marca e modello dell'auto e nome della compagnia con cui è assicurata l'auto
+5. Elencare nome,cognome del proprietario, targa, marca e modello dell'auto e nome della compagnia con cui è assicurata l'auto
+
+## Modalità di consegna degli elaborati:
+
+Inviare a mauro.rainis@bearzi.it i sorgenti della propria applicazione comprensivi del dump del database utilizzato seguendo la procedura descritta in: https://git.io/JeG7k entro le ore 12:15
+
+
+Costituisce valutazione positiva l'utilizzo di git nello svolgimento della prova.
