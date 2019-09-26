@@ -11,9 +11,9 @@ Creare quindi una applicazione web che mostri:
 - una pagina con l'elenco delle auto assicurate
 - una pagina di riepilogo con la tabella seguente:
 
-| Nome e Cognome proprietario | Marca e Modello auto | Compagnia assicurazione |
-| ------ | ------ | ------ |
-| .. | .. | .. |
+| Targa | Nome e Cognome proprietario | Marca e Modello auto | Compagnia assicurazione |
+| ------ | ------ | ------ | ------ |
+| .. | .. | .. | .. |
 
 Tutte le pagine create devono essere accessibili dal menu di navigazione principale del sito web.
 
