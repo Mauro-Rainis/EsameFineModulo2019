@@ -22,6 +22,8 @@ Tutto il materiale è reperibile all'url https://github.com/Mauro-Rainis/EsameFi
 Con riferimento allo schema del database, scrivere in linguaggio sql le interrogazioni per:
 
 1. Elencare nome e cognome di tutti i proprietari di auto ordinati per cognome
+// TODO ::   SCRITTA IN QUESTO MODO QUALCUNO PUO' INTERPRETARE CHE VOGLIO SOLO I PROPRIETARI DI AUTO. MEGLIO CHIAMARE LA TABELLA PERSONE E FARE LA QUERY CON "ELENCO DELLE PERSONE ORDINATE PER COGNOME"
+
 2. Elencare il nome delle assicurazioni con sede a Trieste
 3. Elencare le auto di proprietà di Gaspare Ferri codice fiscale CZVZPV66M26B719D
 4. Elencare i proprietari di auto con residenza Italiana
